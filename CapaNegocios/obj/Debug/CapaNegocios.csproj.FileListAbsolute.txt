@@ -1,0 +1,11 @@
+C:\Users\VHGT1\source\repos\SolucionSistema\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\VHGT1\source\repos\SolucionSistema\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\VHGT1\source\repos\SolucionSistema\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\VHGT1\source\repos\SolucionSistema\CapaNegocios\bin\Debug\CapaEntidades.dll
+C:\Users\VHGT1\source\repos\SolucionSistema\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\VHGT1\source\repos\SolucionSistema\CapaNegocios\bin\Debug\CapaEntidades.pdb
+C:\Users\VHGT1\source\repos\SolucionSistema\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+C:\Users\VHGT1\source\repos\SolucionSistema\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\VHGT1\source\repos\SolucionSistema\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+C:\Users\VHGT1\source\repos\SolucionSistema\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\VHGT1\source\repos\SolucionSistema\CapaNegocios\obj\Debug\CapaNegocios.pdb
