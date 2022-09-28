@@ -1,0 +1,22 @@
+C:\Users\VHGT1\source\repos\SolucionSistema\ClienteWindows\bin\Debug\ClienteWindows.exe.config
+C:\Users\VHGT1\source\repos\SolucionSistema\ClienteWindows\bin\Debug\ClienteWindows.exe
+C:\Users\VHGT1\source\repos\SolucionSistema\ClienteWindows\bin\Debug\ClienteWindows.pdb
+C:\Users\VHGT1\source\repos\SolucionSistema\ClienteWindows\obj\Debug\ClienteWindows.csproj.AssemblyReference.cache
+C:\Users\VHGT1\source\repos\SolucionSistema\ClienteWindows\obj\Debug\ClienteWindows.Properties.Resources.resources
+C:\Users\VHGT1\source\repos\SolucionSistema\ClienteWindows\obj\Debug\ClienteWindows.csproj.GenerateResource.cache
+C:\Users\VHGT1\source\repos\SolucionSistema\ClienteWindows\obj\Debug\ClienteWindows.csproj.CoreCompileInputs.cache
+C:\Users\VHGT1\source\repos\SolucionSistema\ClienteWindows\obj\Debug\ClienteWindows.exe
+C:\Users\VHGT1\source\repos\SolucionSistema\ClienteWindows\obj\Debug\ClienteWindows.pdb
+C:\Users\VHGT1\source\repos\SolucionSistema\ClienteWindows\obj\Debug\ClienteWindows.Form1.resources
+C:\Users\VHGT1\Documents\Visual Studio 2019\06.trabajo lunes\v2.0\SolucionSistema\ClienteWindows\bin\Debug\ClienteWindows.exe.config
+C:\Users\VHGT1\Documents\Visual Studio 2019\06.trabajo lunes\v2.0\SolucionSistema\ClienteWindows\bin\Debug\ClienteWindows.exe
+C:\Users\VHGT1\Documents\Visual Studio 2019\06.trabajo lunes\v2.0\SolucionSistema\ClienteWindows\bin\Debug\ClienteWindows.pdb
+C:\Users\VHGT1\Documents\Visual Studio 2019\06.trabajo lunes\v2.0\SolucionSistema\ClienteWindows\obj\Debug\ClienteWindows.csproj.AssemblyReference.cache
+C:\Users\VHGT1\Documents\Visual Studio 2019\06.trabajo lunes\v2.0\SolucionSistema\ClienteWindows\obj\Debug\ClienteWindows.Form1.resources
+C:\Users\VHGT1\Documents\Visual Studio 2019\06.trabajo lunes\v2.0\SolucionSistema\ClienteWindows\obj\Debug\ClienteWindows.Properties.Resources.resources
+C:\Users\VHGT1\Documents\Visual Studio 2019\06.trabajo lunes\v2.0\SolucionSistema\ClienteWindows\obj\Debug\ClienteWindows.TCategoria.resources
+C:\Users\VHGT1\Documents\Visual Studio 2019\06.trabajo lunes\v2.0\SolucionSistema\ClienteWindows\obj\Debug\ClienteWindows.TProducto.resources
+C:\Users\VHGT1\Documents\Visual Studio 2019\06.trabajo lunes\v2.0\SolucionSistema\ClienteWindows\obj\Debug\ClienteWindows.csproj.GenerateResource.cache
+C:\Users\VHGT1\Documents\Visual Studio 2019\06.trabajo lunes\v2.0\SolucionSistema\ClienteWindows\obj\Debug\ClienteWindows.csproj.CoreCompileInputs.cache
+C:\Users\VHGT1\Documents\Visual Studio 2019\06.trabajo lunes\v2.0\SolucionSistema\ClienteWindows\obj\Debug\ClienteWindows.exe
+C:\Users\VHGT1\Documents\Visual Studio 2019\06.trabajo lunes\v2.0\SolucionSistema\ClienteWindows\obj\Debug\ClienteWindows.pdb
